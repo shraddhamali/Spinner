@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Application</string>
+    <string-array name="planets_array">
+        <item>10th</item>
+        <item>12th</item>
+        <item>Graduate</item>
+        <item>Post-Graduate</item>
+    </string-array>
+</resources>
